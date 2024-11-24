@@ -3,7 +3,7 @@
 <div>
 <h2 align="left">Hi! 👋 I'm Duncan</h2>
 
-<p align="left">I'm a full stack Typescript developer based in Toronto, ON</p>
+<p align="left">I'm a full stack Typescript developer based in Toronto, ON. Currently working on Onboarding and Auth at North One - a connected banking platform for small businesses.</p>
 
 <p align="left">💻 5 years of full stack experience<br>🎸 Currently working on my side project - www.fretboard.fyi<br>🏛️ Currently improving my skills building serverless architectures<br>🥁 Fun fact: I play drums in a cover band and love exploring ways to merge my technical skills with my passion for music</p>
 
