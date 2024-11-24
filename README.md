@@ -1,22 +1,8 @@
-<h1 align="center">Hi! 👋 I'm Duncan</h1>
+<h2 align="left">Hi! 👋 I'm Duncan</h2>
 
-###
-
-<p align="center">I'm a full stack Typescript developer based in Toronto, ON</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<p align="left">I'm a full stack Typescript developer based in Toronto, ON</p>
 
 <p align="left">💻 5 years of full stack experience<br>🎸 Currently working on my side project - www.fretboard.fyi<br>🏛️ Currently improving my skills building serverless architectures<br>🥁 Fun fact: I play drums in a cover band and love exploring ways to merge my technical skills with my passion for music</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
