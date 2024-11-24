@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi! 👋 I'm Duncan</h1>
 
-<!--
-**duncan-mann/duncan-mann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">I'm a full stack Typescript developer based in Toronto, ON</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">💻 5 years of full stack experience<br>🎸 Currently working on my side project - www.fretboard.fyi<br>🏛️ Currently improving my skills building serverless architectures<br>🥁 Fun fact: I play drums in a cover band and love exploring ways to merge my technical skills with my passion for music</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/dmannguy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dmannguy&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
