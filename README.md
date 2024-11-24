@@ -1,3 +1,6 @@
+<div style="display: flex; flex-direction: row;">
+
+<div>
 <h2 align="left">Hi! 👋 I'm Duncan</h2>
 
 <p align="left">I'm a full stack Typescript developer based in Toronto, ON</p>
@@ -19,13 +22,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+</div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/dmannguy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=dmannguy&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
+</div>
