@@ -6,7 +6,7 @@
 <p align="left">I'm a full stack developer based in Winnipeg, MB.</p> 
 <p align="left">Currently working at North One - a connected banking platform for small businesses.</p>
 
-<p align="left">💻 5 years of full stack experience<br>🏛️ Improving my skills building serverless architectures<br>🎸 Learning guitar while working on my side project - www.fretboard.fyi<br>🥁 Fun fact: I play drums in a cover band and love exploring ways to merge my technical skills with my passion for music</p>
+<p align="left">💻 5 years of full stack experience<br>🏛️ Improving my skills building serverless architectures<br>🎸 Learning guitar while working on my side project - www.fretboard.fyi<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
